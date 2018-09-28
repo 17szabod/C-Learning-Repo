@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/new368.dir/a1.cpp.o CMakeFiles/new368.dir/a2.cpp.o  -o new368 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/a4.dir/main.cpp.o CMakeFiles/a4.dir/processStudent.cpp.o CMakeFiles/a4.dir/Student.cpp.o CMakeFiles/a4.dir/UndergradStudent.cpp.o CMakeFiles/a4.dir/GradStudent.cpp.o  -o a4 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/CLionProjects/a5/SmartInteger.cpp
+climits
+/home/daniel/CLionProjects/a5/climits
+SmartInteger.hpp
+/home/daniel/CLionProjects/a5/SmartInteger.hpp
+
+/home/daniel/CLionProjects/a5/SmartInteger.hpp
+ostream
+-
+
+/home/daniel/CLionProjects/a5/main.cpp
+SmartInteger.hpp
+/home/daniel/CLionProjects/a5/SmartInteger.hpp
+iostream
+-
+climits
+-
+

@@ -1,0 +1,5 @@
+Hamburgers
+Omelette
+Pizza
+Quiche
+Steak
